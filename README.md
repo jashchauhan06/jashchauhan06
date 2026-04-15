@@ -1,67 +1,89 @@
-# 💫 About Me:
-🔭 I’m currently working on **full‑stack web projects** (React + TypeScript + Supabase/Firebase)  
-👨‍🎓 B.Tech student in **Artificial Intelligence & Machine Learning (AIML)** at Symbiosis Institute of Technology, Nagpur  
-👯 I’m looking to collaborate on **frontend projects, ML‑powered web apps, and hackathons**  
-🤝 I’m looking for help with **building production‑ready ML pipelines and deployment**  
-🌱 I’m currently learning **React, GSAP animations, MongoDB, and Machine Learning**  
-💬 Ask me about **HTML, CSS, JavaScript/TypeScript, React, basic ML, and college project ideas**  
-⚡ Fun fact: I love turning project ideas from hackathons into real **deployable web apps**  
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jash+Chauhan+%F0%9F%91%8B;AI%2FML+%2B+Full-Stack+Builder;Turning+Ideas+into+Products" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gyanverlice)
+# Jash Chauhan
+
+**AI/ML student · Full-Stack Builder · Hackathon Competitor**
+
+*I build things that work — web apps, ML models, and whatever's needed to ship.*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashchauhan06/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jashchauhan06)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gyanverlice)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects:
-- 🧠 **Moodflow – Emotion Recognition Chatbot**  
-  Conversational AI chatbot that detects user emotions and responds accordingly using ML + React + TypeScript.  
-  🔗 Repo: [Moodflow](https://github.com/jashchauhan06/Moodflow)
+## Who I Am
 
-- 📊 **Student Performance Prediction**  
-  ML‑based web app that predicts student performance using academic and behavioural features.  
-  🔗 Repo: [StudentPerformance](https://github.com/jashchauhan06/StudentPerformance)
+B.Tech AIML student at Symbiosis Institute of Technology, Nagpur.
 
----
+I sit at the intersection of **ML and frontend** — I understand models well enough to build products around them, and I care enough about UX to make those products actually usable. My focus right now is getting better at the full pipeline: from a trained model to a deployed, production-ready web app.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Currently building with **React + TypeScript + Supabase/Firebase** on the frontend, and **Python + scikit-learn** on the ML side.
 
 ---
 
-# 📜 Certifications:
-- Python – Red Hat  
-- Virtual Internship Program with ServiceNow  
-- Basics of HTML and CSS  
-- Deloitte Data Analytics Virtual Experience Program  
+## What I've Built
+
+### 🧠 [Moodflow — Emotion Recognition Chatbot](https://github.com/jashchauhan06/Moodflow)
+A conversational AI that detects user emotions in real time and responds accordingly.
+Built with React, TypeScript, and ML-based emotion classification.
+> *Not just a chatbot — it adapts its tone based on how you're feeling.*
+
+### 📊 [Student Performance Predictor](https://github.com/jashchauhan06/StudentPerformance)
+ML web app that predicts academic outcomes using behavioral and academic features.
+Trained on real student data, served through a clean web interface.
+> *A practical ML pipeline, end to end — data → model → UI.*
 
 ---
 
-# 🏆 Roles & Activities:
-- 🌐 Web Development Team Lead – **Enthusia** (college cultural & tech fest)  
-- 🧑‍💻 Technical Lead – **SITNovate** (24‑Hour Hackathon)  
-- 🤝 Volunteer – **ICSIT** events and activities  
+## Tech I Work With
+
+**Frontend**
+`React` `TypeScript` `JavaScript` `HTML/CSS` `GSAP`
+
+**Backend & Databases**
+`Supabase` `Firebase` `MongoDB` `PHP`
+
+**ML & Data**
+`Python` `scikit-learn` `pandas` `NumPy`
+
+**Tools**
+`Git` `VS Code`
 
 ---
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jashchauhan580&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jashchauhan580&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashchauhan580&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## What I'm Focused On
+
+- Shipping a full ML pipeline to production (not just notebooks)
+- Getting deeper into React patterns and performance
+- Building things at hackathons that don't die after the demo
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jashchauhan580&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Roles
+
+- **Web Dev Team Lead** — Enthusia (college tech & cultural fest)
+- **Technical Lead** — SITNovate 24-Hour Hackathon
+- **Volunteer** — ICSIT events
+
+---
+
+## Let's Work Together
+
+If you're building an ML-powered web app, working on a hackathon, or need a frontend collaborator — reach out.
+
+I'm looking for serious projects, not just resume padding.
+
+📬 [LinkedIn](https://www.linkedin.com/in/jashchauhan06/) · [GitHub](https://github.com/jashchauhan06)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jashchauhan06&theme=dark&hide_border=true&show_icons=true&count_private=true)
+
+</div>
