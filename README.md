@@ -4,7 +4,7 @@
 
 # Jash Chauhan
 
-**AI/ML student · Full-Stack Developer**
+**B.Tech Computer Science (AIML) · Full-Stack Developer**
 
 *I build things that work — web apps, ML models, and whatever's needed to ship.*
 
@@ -18,7 +18,7 @@
 
 ## Who I Am
 
-B.Tech AIML student at Symbiosis Institute of Technology, Nagpur.
+B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning at Symbiosis Institute of Technology, Nagpur.
 
 I work at the intersection of **machine learning and frontend development** — strong enough on the ML side to build real models, and focused enough on UX to turn them into usable products.  
 
