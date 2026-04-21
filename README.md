@@ -4,7 +4,7 @@
 
 # Jash Chauhan
 
-**AI/ML student · Full-Stack Builder · Hackathon Competitor**
+**AI/ML Student · Full-Stack Developer**
 
 *I build things that work — web apps, ML models, and whatever's needed to ship.*
 
@@ -20,63 +20,67 @@
 
 B.Tech AIML student at Symbiosis Institute of Technology, Nagpur.
 
-I sit at the intersection of **ML and frontend** — I understand models well enough to build products around them, and I care enough about UX to make those products actually usable. My focus right now is getting better at the full pipeline: from a trained model to a deployed, production-ready web app.
+I work at the intersection of **machine learning and frontend development** — strong enough on the ML side to build real models, and focused enough on UX to turn them into usable products.  
 
-Currently building with **React + TypeScript + Supabase/Firebase** on the frontend, and **Python + scikit-learn** on the ML side.
+Right now, I'm focused on mastering the **end-to-end pipeline**: from data and model building to deployment as a production-ready web application.
+
+Currently building with **React + TypeScript + Supabase/Firebase** on the frontend, and **Python + scikit-learn** for ML systems.
 
 ---
 
 ## What I've Built
 
 ### 🧠 [Moodflow — Emotion Recognition Chatbot](https://github.com/jashchauhan06/Moodflow)
-A conversational AI that detects user emotions in real time and responds accordingly.
-Built with React, TypeScript, and ML-based emotion classification.
-> *Not just a chatbot — it adapts its tone based on how you're feeling.*
+A conversational AI system that detects user emotions in real time and adapts responses accordingly.  
+Built using React, TypeScript, and an ML-based emotion classification model.  
+> *Goes beyond static chat — dynamically adjusts tone based on user sentiment.*
+
+---
 
 ### 📊 [Student Performance Predictor](https://github.com/jashchauhan06/StudentPerformance)
-ML web app that predicts academic outcomes using behavioral and academic features.
-Trained on real student data, served through a clean web interface.
-> *A practical ML pipeline, end to end — data → model → UI.*
+An ML-powered web application that predicts student performance using academic and behavioral features.  
+Implements a complete pipeline: data preprocessing → model training → deployment via a clean UI.  
+> *Focused on practical ML application, not just model accuracy.*
 
 ---
 
 ## Tech I Work With
 
-**Frontend**
+**Frontend**  
 `React` `TypeScript` `JavaScript` `HTML/CSS` `GSAP`
 
-**Backend & Databases**
+**Backend & Databases**  
 `Supabase` `Firebase` `MongoDB` `PHP`
 
-**ML & Data**
+**ML & Data**  
 `Python` `scikit-learn` `pandas` `NumPy`
 
-**Tools**
+**Tools**  
 `Git` `VS Code`
 
 ---
 
 ## What I'm Focused On
 
-- Shipping a full ML pipeline to production (not just notebooks)
-- Getting deeper into React patterns and performance
-- Building things at hackathons that don't die after the demo
+- Building **production-ready ML applications**, not just experiments  
+- Improving **React architecture, performance, and scalability**  
+- Creating hackathon projects that evolve into **real-world products**
 
 ---
 
 ## Roles
 
-- **Web Dev Team Lead** — Enthusia (college tech & cultural fest)
-- **Technical Lead** — SITNovate 24-Hour Hackathon
-- **Volunteer** — ICSIT events
+- **Web Development Team Lead** — Enthusia (College Tech & Cultural Fest)  
+- **Technical Lead** — SITNovate 24-Hour Hackathon  
+- **Volunteer** — ICSIT Events  
 
 ---
 
 ## Let's Work Together
 
-If you're building an ML-powered web app, working on a hackathon, or need a frontend collaborator — reach out.
+If you're building an ML-powered product, working on a serious hackathon idea, or need someone who can bridge **ML + frontend**, feel free to reach out.
 
-I'm looking for serious projects, not just resume padding.
+I'm interested in **impactful projects**, not just resume fillers.
 
 📬 [LinkedIn](https://www.linkedin.com/in/jashchauhan06/) · [GitHub](https://github.com/jashchauhan06)
 
